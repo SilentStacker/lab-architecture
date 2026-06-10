@@ -1,4 +1,4 @@
-cat > README.md << 'README'
+
 <div align="center">
 
 # 🖥️ lab-architecture
